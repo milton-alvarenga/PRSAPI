@@ -1,0 +1,28 @@
+{
+  "name": "prsapi",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milton-alvarenga/PRSAPI.git"
+  },
+  "keywords": [
+    "api",
+    "js",
+    "backend"
+  ],
+  "author": "Drall Consulting Brazil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milton-alvarenga/PRSAPI/issues"
+  },
+  "homepage": "https://github.com/milton-alvarenga/PRSAPI#readme",
+  "devDependencies": {
+    "jest": "^29.6.2",
+    "dotenv-safe": "^8.2.0"
+  }
+}
